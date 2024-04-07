@@ -7,6 +7,7 @@ disable=
       C0115, # missing-class-docstring
       C0321, # Multiple-statements
       E0015, # unrecognized-option
+      E0401, # import-error
       R0801, # Duplicate-code
       R0903, # too-few-public-methods
       W0703, # Catching too general exception Exception
